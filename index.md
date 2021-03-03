@@ -14,15 +14,15 @@ Software Engineer experienced in client/server solutions focusing on enterprise-
 
 ### **Technologies**
 
-Swift, UIKit, SwiftUI, Combine  
-IBM Websphere Aplication Server, DB2 Database  
-Web Services and IBM Service Oriented Architecture
+Swift, UIKit, MapKit, Core Location, Core Data, CloudKit  
+Concurrency with GDC and Operations  
+SwiftUI, Reactive Programming using Combine
 
 ### **Experience**
 
 ## Software Engineer <br/> Dublin Ireland
 `present`
-Developing native iOS applications using Swift, UIKit, SwiftUI and Combine.
+Developing native iOS applications using Swift, UIKit and SwiftUI
 
 ## Independent Contractor <br/> London UK
 `2010-2011`
