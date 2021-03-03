@@ -10,7 +10,7 @@ title: Wieniek Sliwinski's CV
 
 ### **Summary of Qualifications**
 
-Software Engineer experienced in client/server solutions focusing on enterprise-wide human resources and financial systems. Demonstrated strong business analyst skills with ability to transform business requirements into viable technical solutions meeting business objectives, project deadlines and financial goals. Experienced with applications development, deployment, maintenance, capacity planning/performance measurement, data conversion and migration. Managed global teams of developers and testers through all phases of the project lifecycle: analysis, design, development, testing, implementation and maintenance.
+Mobile Software Engineer specializing in iOS applications development using modern technologies and frameworks. Also experienced in client/server solutions focusing on enterprise-wide human resources and financial systems. Demonstrated strong business analyst skills with ability to transform business requirements into viable technical solutions meeting business objectives, project deadlines and financial goals. Experienced with applications development, deployment, maintenance, capacity planning/performance measurement, data conversion and migration. Managed global teams of developers and testers through all phases of the project lifecycle: analysis, design, development, testing, implementation and maintenance.
 
 ### **Technologies**
 
@@ -22,7 +22,7 @@ SwiftUI, Reactive Programming using Combine
 
 ## Software Engineer <br/> Dublin Ireland
 `present`
-Developing native iOS applications using Swift, UIKit and SwiftUI
+Developing native iOS applications using Swift, UIKit, SwiftUI and Combine.
 
 ## Independent Contractor <br/> London UK
 `2010-2011`
